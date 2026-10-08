@@ -1,0 +1,202 @@
+{
+  "version": "2.0",
+  "pipeline_stage": "validated",
+  "authors": {
+    "Zsuzsanna Kocsis": {
+      "orcid": "0000-0003-2203-2786",
+      "affiliations": [
+        {
+          "name": "University of Iowa"
+        }
+      ]
+    },
+    "Rick L. Jenison": {
+      "orcid": "0000-0002-3712-300X"
+    },
+    "Peter N. Taylor": {},
+    "Ryan M. Calmus": {
+      "orcid": "0000-0002-7826-9355",
+      "affiliations": [
+        {
+          "name": "University of Iowa"
+        }
+      ]
+    },
+    "Bob McMurray": {
+      "orcid": "0000-0002-6532-284X"
+    },
+    "Ariane E. Rhone": {
+      "orcid": "0000-0002-5699-8733",
+      "affiliations": [
+        {
+          "name": "University of Iowa"
+        }
+      ]
+    },
+    "McCall E. Sarrett": {},
+    "Carolina Deifelt Streese": {
+      "orcid": "0000-0002-6592-4015",
+      "affiliations": [
+        {
+          "name": "University of Iowa"
+        }
+      ]
+    },
+    "Yukiko Kikuchi": {
+      "orcid": "0000-0002-0365-0397",
+      "affiliations": [
+        {
+          "name": "Newcastle University"
+        }
+      ]
+    },
+    "Phillip E. Gander": {
+      "orcid": "0000-0003-3945-8820",
+      "affiliations": [
+        {
+          "name": "University of Iowa"
+        }
+      ]
+    },
+    "Joel I. Berger": {
+      "orcid": "0000-0002-1960-9487",
+      "affiliations": [
+        {
+          "name": "University of Iowa"
+        }
+      ]
+    },
+    "Christopher K. Kovach": {
+      "orcid": "0000-0002-0117-151X"
+    },
+    "Inyong Choi": {},
+    "Jeremy D. Greenlee": {
+      "orcid": "0000-0002-8481-8517"
+    },
+    "Hiroto Kawasaki": {},
+    "Thomas E. Cope": {
+      "orcid": "0000-0002-4751-1786",
+      "affiliations": [
+        {
+          "name": "Cambridge University"
+        }
+      ]
+    },
+    "Timothy D. Griffiths": {
+      "orcid": "0000-0001-8066-4381",
+      "affiliations": [
+        {
+          "name": "Newcastle University"
+        }
+      ]
+    },
+    "Matthew A. Howard III": {},
+    "Christopher I. Petkov": {
+      "orcid": "0000-0002-4932-7907",
+      "affiliations": [
+        {
+          "name": "University of Iowa"
+        }
+      ]
+    }
+  },
+  "related_identifiers": [
+    {
+      "identifier": "10.5281/zenodo.8110724",
+      "identifier_type": "DOI",
+      "relation_type": "IsDerivedFrom"
+    },
+    {
+      "identifier": "10.1038/s41467-023-42088-7",
+      "identifier_type": "DOI",
+      "relation_type": "IsDescribedBy"
+    },
+    {
+      "identifier": "https://github.com/nemarDatasets/nm000430",
+      "identifier_type": "URL",
+      "relation_type": "IsDescribedBy"
+    },
+    {
+      "identifier": "https://nemar.org/dataset/nm000430",
+      "identifier_type": "URL",
+      "relation_type": "IsDescribedBy"
+    }
+  ],
+  "funding_references": [
+    {
+      "funder_name": "Medical Research Council",
+      "award_number": "MR/X003701/1"
+    },
+    {
+      "funder_name": "Academy of Medical Sciences",
+      "award_number": "SGL024\\1069"
+    },
+    {
+      "funder_name": "Wellcome Trust",
+      "award_number": "WT091681MA"
+    },
+    {
+      "funder_name": "National Institute for Health Research (NIHR)",
+      "award_number": "CL-2018-14-007"
+    },
+    {
+      "funder_name": "NIDCD NIH HHS",
+      "award_number": "R01 DC004290"
+    }
+  ],
+  "title": "Intracranial recordings before and after left anterior temporal lobe disconnection during a speech prediction task (Kocsis et al., 2023) - derivative",
+  "license": "CC-BY-4.0",
+  "dataset_type": "derivative",
+  "resource_type_general": "Dataset",
+  "modalities": [
+    "ieeg"
+  ],
+  "resource_type_specific": "iEEG Dataset",
+  "sizes": [
+    "17.69 GB (25 files)"
+  ],
+  "formats": [
+    ".eeg",
+    ".json",
+    ".mat",
+    ".py",
+    ".tsv",
+    ".txt",
+    ".vhdr",
+    ".vmrk",
+    ".xlsx"
+  ],
+  "description": "Acute electrocorticography recorded from two epilepsy surgery patients during a speech prediction task, minutes before and after neurosurgical disconnection of the left anterior temporal lobe (a semantic hub). Recordings cover a frontal grid, temporal pole, subtemporal and lateral temporal strips, and a Heschl's gyrus depth electrode. This BIDS derivative repackages the Zenodo release as BrainVision files, with downsampled (1000 Hz) and denoised (demodulated band transform plus first-SVD-component removal) versions, along with events and electrode tables.",
+  "methods_description": "ECoG was sampled at 2000 Hz and downsampled to 1000 Hz. Denoising used the demodulated band transform and removal of the first SVD component. Recordings were made at least 20 min after anaesthesia stopped, before and after left ATL disconnection, using a frontal grid (96 or 64 contacts), temporal pole, subtemporal and lateral temporal strips, and an 8-contact Heschl's gyrus depth electrode. Data were converted to BrainVision float32 with events and electrode tables.",
+  "keywords": [
+    {
+      "term": "Electrocorticography",
+      "subject_scheme": "MeSH",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D000069280"
+    },
+    {
+      "term": "iEEG"
+    },
+    {
+      "term": "anterior temporal lobe"
+    },
+    {
+      "term": "semantic hub"
+    },
+    {
+      "term": "diaschisis"
+    },
+    {
+      "term": "predictive coding"
+    },
+    {
+      "term": "speech"
+    },
+    {
+      "term": "Epilepsy",
+      "subject_scheme": "MeSH",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D004827"
+    }
+  ],
+  "source_hash": "7a6e9027fbbe00a122c4b17bfd8795c338e42402c17b77d62bb751ba1ba554bc"
+}
