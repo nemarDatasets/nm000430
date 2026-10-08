@@ -1,0 +1,129 @@
+name	type	units	low_cutoff	high_cutoff	sampling_frequency	reference	group	status	status_description	description
+Grid1	ECOG	n/a	n/a	n/a	1000.0	n/a	Grid	good	n/a	grid 1 (release channel 1)
+Grid2	ECOG	n/a	n/a	n/a	1000.0	n/a	Grid	good	n/a	grid 2 (release channel 2)
+Grid3	ECOG	n/a	n/a	n/a	1000.0	n/a	Grid	good	n/a	grid 3 (release channel 3)
+Grid4	ECOG	n/a	n/a	n/a	1000.0	n/a	Grid	good	n/a	grid 4 (release channel 4)
+Grid5	ECOG	n/a	n/a	n/a	1000.0	n/a	Grid	good	n/a	grid 5 (release channel 5)
+Grid6	ECOG	n/a	n/a	n/a	1000.0	n/a	Grid	good	n/a	grid 6 (release channel 6)
+Grid7	ECOG	n/a	n/a	n/a	1000.0	n/a	Grid	good	n/a	grid 7 (release channel 7)
+Grid8	ECOG	n/a	n/a	n/a	1000.0	n/a	Grid	good	n/a	grid 8 (release channel 8)
+Grid9	ECOG	n/a	n/a	n/a	1000.0	n/a	Grid	good	n/a	grid 9 (release channel 9)
+Grid10	ECOG	n/a	n/a	n/a	1000.0	n/a	Grid	good	n/a	grid 10 (release channel 10)
+Grid11	ECOG	n/a	n/a	n/a	1000.0	n/a	Grid	good	n/a	grid 11 (release channel 11)
+Grid12	ECOG	n/a	n/a	n/a	1000.0	n/a	Grid	good	n/a	grid 12 (release channel 12)
+Grid13	ECOG	n/a	n/a	n/a	1000.0	n/a	Grid	good	n/a	grid 13 (release channel 13)
+Grid14	ECOG	n/a	n/a	n/a	1000.0	n/a	Grid	good	n/a	grid 14 (release channel 14)
+Grid15	ECOG	n/a	n/a	n/a	1000.0	n/a	Grid	good	n/a	grid 15 (release channel 15)
+Grid16	ECOG	n/a	n/a	n/a	1000.0	n/a	Grid	good	n/a	grid 16 (release channel 16)
+Grid17	ECOG	n/a	n/a	n/a	1000.0	n/a	Grid	good	n/a	grid 17 (release channel 17)
+Grid18	ECOG	n/a	n/a	n/a	1000.0	n/a	Grid	good	n/a	grid 18 (release channel 18)
+Grid19	ECOG	n/a	n/a	n/a	1000.0	n/a	Grid	good	n/a	grid 19 (release channel 19)
+Grid20	ECOG	n/a	n/a	n/a	1000.0	n/a	Grid	good	n/a	grid 20 (release channel 20)
+Grid21	ECOG	n/a	n/a	n/a	1000.0	n/a	Grid	good	n/a	grid 21 (release channel 21)
+Grid22	ECOG	n/a	n/a	n/a	1000.0	n/a	Grid	good	n/a	grid 22 (release channel 22)
+Grid23	ECOG	n/a	n/a	n/a	1000.0	n/a	Grid	good	n/a	grid 23 (release channel 23)
+Grid24	ECOG	n/a	n/a	n/a	1000.0	n/a	Grid	good	n/a	grid 24 (release channel 24)
+Grid25	ECOG	n/a	n/a	n/a	1000.0	n/a	Grid	good	n/a	grid 25 (release channel 25)
+Grid26	ECOG	n/a	n/a	n/a	1000.0	n/a	Grid	good	n/a	grid 26 (release channel 26)
+Grid27	ECOG	n/a	n/a	n/a	1000.0	n/a	Grid	good	n/a	grid 27 (release channel 27)
+Grid28	ECOG	n/a	n/a	n/a	1000.0	n/a	Grid	good	n/a	grid 28 (release channel 28)
+Grid29	ECOG	n/a	n/a	n/a	1000.0	n/a	Grid	good	n/a	grid 29 (release channel 29)
+Grid30	ECOG	n/a	n/a	n/a	1000.0	n/a	Grid	good	n/a	grid 30 (release channel 30)
+Grid31	ECOG	n/a	n/a	n/a	1000.0	n/a	Grid	good	n/a	grid 31 (release channel 31)
+Grid32	ECOG	n/a	n/a	n/a	1000.0	n/a	Grid	good	n/a	grid 32 (release channel 32)
+Grid33	ECOG	n/a	n/a	n/a	1000.0	n/a	Grid	good	n/a	grid 33 (release channel 33)
+Grid34	ECOG	n/a	n/a	n/a	1000.0	n/a	Grid	good	n/a	grid 34 (release channel 34)
+Grid35	ECOG	n/a	n/a	n/a	1000.0	n/a	Grid	good	n/a	grid 35 (release channel 35)
+Grid36	ECOG	n/a	n/a	n/a	1000.0	n/a	Grid	good	n/a	grid 36 (release channel 36)
+Grid37	ECOG	n/a	n/a	n/a	1000.0	n/a	Grid	good	n/a	grid 37 (release channel 37)
+Grid38	ECOG	n/a	n/a	n/a	1000.0	n/a	Grid	good	n/a	grid 38 (release channel 38)
+Grid39	ECOG	n/a	n/a	n/a	1000.0	n/a	Grid	good	n/a	grid 39 (release channel 39)
+Grid40	ECOG	n/a	n/a	n/a	1000.0	n/a	Grid	good	n/a	grid 40 (release channel 40)
+Grid41	ECOG	n/a	n/a	n/a	1000.0	n/a	Grid	good	n/a	grid 41 (release channel 41)
+Grid42	ECOG	n/a	n/a	n/a	1000.0	n/a	Grid	good	n/a	grid 42 (release channel 42)
+Grid43	ECOG	n/a	n/a	n/a	1000.0	n/a	Grid	good	n/a	grid 43 (release channel 43)
+Grid44	ECOG	n/a	n/a	n/a	1000.0	n/a	Grid	good	n/a	grid 44 (release channel 44)
+Grid45	ECOG	n/a	n/a	n/a	1000.0	n/a	Grid	good	n/a	grid 45 (release channel 45)
+Grid46	ECOG	n/a	n/a	n/a	1000.0	n/a	Grid	good	n/a	grid 46 (release channel 46)
+Grid47	ECOG	n/a	n/a	n/a	1000.0	n/a	Grid	good	n/a	grid 47 (release channel 47)
+Grid48	ECOG	n/a	n/a	n/a	1000.0	n/a	Grid	good	n/a	grid 48 (release channel 48)
+Grid49	ECOG	n/a	n/a	n/a	1000.0	n/a	Grid	good	n/a	grid 49 (release channel 49)
+Grid50	ECOG	n/a	n/a	n/a	1000.0	n/a	Grid	good	n/a	grid 50 (release channel 50)
+Grid51	ECOG	n/a	n/a	n/a	1000.0	n/a	Grid	good	n/a	grid 51 (release channel 51)
+Grid52	ECOG	n/a	n/a	n/a	1000.0	n/a	Grid	good	n/a	grid 52 (release channel 52)
+Grid53	ECOG	n/a	n/a	n/a	1000.0	n/a	Grid	good	n/a	grid 53 (release channel 53)
+Grid54	ECOG	n/a	n/a	n/a	1000.0	n/a	Grid	good	n/a	grid 54 (release channel 54)
+Grid55	ECOG	n/a	n/a	n/a	1000.0	n/a	Grid	good	n/a	grid 55 (release channel 55)
+Grid56	ECOG	n/a	n/a	n/a	1000.0	n/a	Grid	good	n/a	grid 56 (release channel 56)
+Grid57	ECOG	n/a	n/a	n/a	1000.0	n/a	Grid	good	n/a	grid 57 (release channel 57)
+Grid58	ECOG	n/a	n/a	n/a	1000.0	n/a	Grid	good	n/a	grid 58 (release channel 58)
+Grid59	ECOG	n/a	n/a	n/a	1000.0	n/a	Grid	good	n/a	grid 59 (release channel 59)
+Grid60	ECOG	n/a	n/a	n/a	1000.0	n/a	Grid	good	n/a	grid 60 (release channel 60)
+Grid61	ECOG	n/a	n/a	n/a	1000.0	n/a	Grid	good	n/a	grid 61 (release channel 61)
+Grid62	ECOG	n/a	n/a	n/a	1000.0	n/a	Grid	good	n/a	grid 62 (release channel 62)
+Grid63	ECOG	n/a	n/a	n/a	1000.0	n/a	Grid	good	n/a	grid 63 (release channel 63)
+Grid64	ECOG	n/a	n/a	n/a	1000.0	n/a	Grid	good	n/a	grid 64 (release channel 64)
+HeschlsGyrusDepth1	SEEG	n/a	n/a	n/a	1000.0	n/a	HeschlsGyrusDepth	good	n/a	Heschls gyrus depth 1 (release channel 65)
+HeschlsGyrusDepth2	SEEG	n/a	n/a	n/a	1000.0	n/a	HeschlsGyrusDepth	good	n/a	Heschls gyrus depth 2 (release channel 66)
+HeschlsGyrusDepth3	SEEG	n/a	n/a	n/a	1000.0	n/a	HeschlsGyrusDepth	good	n/a	Heschls gyrus depth 3 (release channel 67)
+HeschlsGyrusDepth4	SEEG	n/a	n/a	n/a	1000.0	n/a	HeschlsGyrusDepth	good	n/a	Heschls gyrus depth 4 (release channel 68)
+HeschlsGyrusDepth5	SEEG	n/a	n/a	n/a	1000.0	n/a	HeschlsGyrusDepth	good	n/a	Heschls gyrus depth 5 (release channel 69)
+HeschlsGyrusDepth6	SEEG	n/a	n/a	n/a	1000.0	n/a	HeschlsGyrusDepth	good	n/a	Heschls gyrus depth 6 (release channel 70)
+HeschlsGyrusDepth7	SEEG	n/a	n/a	n/a	1000.0	n/a	HeschlsGyrusDepth	good	n/a	Heschls gyrus depth 7 (release channel 71)
+HeschlsGyrusDepth8	SEEG	n/a	n/a	n/a	1000.0	n/a	HeschlsGyrusDepth	good	n/a	Heschls gyrus depth 8 (release channel 72)
+TemporalPole1	ECOG	n/a	n/a	n/a	1000.0	n/a	TemporalPole	good	n/a	Temporal pole 1 (release channel 73)
+TemporalPole2	ECOG	n/a	n/a	n/a	1000.0	n/a	TemporalPole	good	n/a	Temporal pole 2 (release channel 74)
+TemporalPole3	ECOG	n/a	n/a	n/a	1000.0	n/a	TemporalPole	good	n/a	Temporal pole 3 (release channel 75)
+TemporalPole4	ECOG	n/a	n/a	n/a	1000.0	n/a	TemporalPole	good	n/a	Temporal pole 4 (release channel 76)
+SubtemporalStrip1	ECOG	n/a	n/a	n/a	1000.0	n/a	SubtemporalStrip	good	n/a	Subtemporal strip 1 (release channel 77)
+SubtemporalStrip2	ECOG	n/a	n/a	n/a	1000.0	n/a	SubtemporalStrip	good	n/a	Subtemporal strip 2 (release channel 78)
+SubtemporalStrip3	ECOG	n/a	n/a	n/a	1000.0	n/a	SubtemporalStrip	good	n/a	Subtemporal strip 3 (release channel 79)
+SubtemporalStrip4	ECOG	n/a	n/a	n/a	1000.0	n/a	SubtemporalStrip	good	n/a	Subtemporal strip 4 (release channel 80)
+LateralTemporalStrip1	ECOG	n/a	n/a	n/a	1000.0	n/a	LateralTemporalStrip	good	n/a	Lateral temporal strip 1 (release channel 81)
+LateralTemporalStrip2	ECOG	n/a	n/a	n/a	1000.0	n/a	LateralTemporalStrip	good	n/a	Lateral temporal strip 2 (release channel 82)
+LateralTemporalStrip3	ECOG	n/a	n/a	n/a	1000.0	n/a	LateralTemporalStrip	good	n/a	Lateral temporal strip 3 (release channel 83)
+LateralTemporalStrip4	ECOG	n/a	n/a	n/a	1000.0	n/a	LateralTemporalStrip	good	n/a	Lateral temporal strip 4 (release channel 84)
+ch085	MISC	n/a	n/a	n/a	1000.0	n/a	n/a	good	n/a	channel 85 of the release matrix; not listed in Information_sheet.xlsx
+ch086	MISC	n/a	n/a	n/a	1000.0	n/a	n/a	good	n/a	channel 86 of the release matrix; not listed in Information_sheet.xlsx
+ch087	MISC	n/a	n/a	n/a	1000.0	n/a	n/a	good	n/a	channel 87 of the release matrix; not listed in Information_sheet.xlsx
+ch088	MISC	n/a	n/a	n/a	1000.0	n/a	n/a	good	n/a	channel 88 of the release matrix; not listed in Information_sheet.xlsx
+ch089	MISC	n/a	n/a	n/a	1000.0	n/a	n/a	good	n/a	channel 89 of the release matrix; not listed in Information_sheet.xlsx
+ch090	MISC	n/a	n/a	n/a	1000.0	n/a	n/a	good	n/a	channel 90 of the release matrix; not listed in Information_sheet.xlsx
+ch091	MISC	n/a	n/a	n/a	1000.0	n/a	n/a	good	n/a	channel 91 of the release matrix; not listed in Information_sheet.xlsx
+ch092	MISC	n/a	n/a	n/a	1000.0	n/a	n/a	good	n/a	channel 92 of the release matrix; not listed in Information_sheet.xlsx
+ch093	MISC	n/a	n/a	n/a	1000.0	n/a	n/a	good	n/a	channel 93 of the release matrix; not listed in Information_sheet.xlsx
+ch094	MISC	n/a	n/a	n/a	1000.0	n/a	n/a	good	n/a	channel 94 of the release matrix; not listed in Information_sheet.xlsx
+ch095	MISC	n/a	n/a	n/a	1000.0	n/a	n/a	good	n/a	channel 95 of the release matrix; not listed in Information_sheet.xlsx
+ch096	MISC	n/a	n/a	n/a	1000.0	n/a	n/a	good	n/a	channel 96 of the release matrix; not listed in Information_sheet.xlsx
+ch097	MISC	n/a	n/a	n/a	1000.0	n/a	n/a	good	n/a	channel 97 of the release matrix; not listed in Information_sheet.xlsx
+ch098	MISC	n/a	n/a	n/a	1000.0	n/a	n/a	good	n/a	channel 98 of the release matrix; not listed in Information_sheet.xlsx
+ch099	MISC	n/a	n/a	n/a	1000.0	n/a	n/a	good	n/a	channel 99 of the release matrix; not listed in Information_sheet.xlsx
+ch100	MISC	n/a	n/a	n/a	1000.0	n/a	n/a	good	n/a	channel 100 of the release matrix; not listed in Information_sheet.xlsx
+ch101	MISC	n/a	n/a	n/a	1000.0	n/a	n/a	good	n/a	channel 101 of the release matrix; not listed in Information_sheet.xlsx
+ch102	MISC	n/a	n/a	n/a	1000.0	n/a	n/a	good	n/a	channel 102 of the release matrix; not listed in Information_sheet.xlsx
+ch103	MISC	n/a	n/a	n/a	1000.0	n/a	n/a	good	n/a	channel 103 of the release matrix; not listed in Information_sheet.xlsx
+ch104	MISC	n/a	n/a	n/a	1000.0	n/a	n/a	good	n/a	channel 104 of the release matrix; not listed in Information_sheet.xlsx
+ch105	MISC	n/a	n/a	n/a	1000.0	n/a	n/a	good	n/a	channel 105 of the release matrix; not listed in Information_sheet.xlsx
+ch106	MISC	n/a	n/a	n/a	1000.0	n/a	n/a	good	n/a	channel 106 of the release matrix; not listed in Information_sheet.xlsx
+ch107	MISC	n/a	n/a	n/a	1000.0	n/a	n/a	good	n/a	channel 107 of the release matrix; not listed in Information_sheet.xlsx
+ch108	MISC	n/a	n/a	n/a	1000.0	n/a	n/a	good	n/a	channel 108 of the release matrix; not listed in Information_sheet.xlsx
+ch109	MISC	n/a	n/a	n/a	1000.0	n/a	n/a	good	n/a	channel 109 of the release matrix; not listed in Information_sheet.xlsx
+ch110	MISC	n/a	n/a	n/a	1000.0	n/a	n/a	good	n/a	channel 110 of the release matrix; not listed in Information_sheet.xlsx
+ch111	MISC	n/a	n/a	n/a	1000.0	n/a	n/a	good	n/a	channel 111 of the release matrix; not listed in Information_sheet.xlsx
+ch112	MISC	n/a	n/a	n/a	1000.0	n/a	n/a	good	n/a	channel 112 of the release matrix; not listed in Information_sheet.xlsx
+ch113	MISC	n/a	n/a	n/a	1000.0	n/a	n/a	good	n/a	channel 113 of the release matrix; not listed in Information_sheet.xlsx
+ch114	MISC	n/a	n/a	n/a	1000.0	n/a	n/a	good	n/a	channel 114 of the release matrix; not listed in Information_sheet.xlsx
+ch115	MISC	n/a	n/a	n/a	1000.0	n/a	n/a	good	n/a	channel 115 of the release matrix; not listed in Information_sheet.xlsx
+ch116	MISC	n/a	n/a	n/a	1000.0	n/a	n/a	good	n/a	channel 116 of the release matrix; not listed in Information_sheet.xlsx
+ch117	MISC	n/a	n/a	n/a	1000.0	n/a	n/a	good	n/a	channel 117 of the release matrix; not listed in Information_sheet.xlsx
+ch118	MISC	n/a	n/a	n/a	1000.0	n/a	n/a	good	n/a	channel 118 of the release matrix; not listed in Information_sheet.xlsx
+ch119	MISC	n/a	n/a	n/a	1000.0	n/a	n/a	good	n/a	channel 119 of the release matrix; not listed in Information_sheet.xlsx
+ch120	MISC	n/a	n/a	n/a	1000.0	n/a	n/a	good	n/a	channel 120 of the release matrix; not listed in Information_sheet.xlsx
+ch121	MISC	n/a	n/a	n/a	1000.0	n/a	n/a	good	n/a	channel 121 of the release matrix; not listed in Information_sheet.xlsx
+ch122	MISC	n/a	n/a	n/a	1000.0	n/a	n/a	good	n/a	channel 122 of the release matrix; not listed in Information_sheet.xlsx
+ch123	MISC	n/a	n/a	n/a	1000.0	n/a	n/a	good	n/a	channel 123 of the release matrix; not listed in Information_sheet.xlsx
+ch124	MISC	n/a	n/a	n/a	1000.0	n/a	n/a	good	n/a	channel 124 of the release matrix; not listed in Information_sheet.xlsx
+ch125	MISC	n/a	n/a	n/a	1000.0	n/a	n/a	good	n/a	channel 125 of the release matrix; not listed in Information_sheet.xlsx
+ch126	MISC	n/a	n/a	n/a	1000.0	n/a	n/a	good	n/a	channel 126 of the release matrix; not listed in Information_sheet.xlsx
+ch127	MISC	n/a	n/a	n/a	1000.0	n/a	n/a	good	n/a	channel 127 of the release matrix; not listed in Information_sheet.xlsx
+ch128	MISC	n/a	n/a	n/a	1000.0	n/a	n/a	good	n/a	channel 128 of the release matrix; not listed in Information_sheet.xlsx

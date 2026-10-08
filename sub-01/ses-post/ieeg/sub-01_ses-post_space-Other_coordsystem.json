@@ -1,0 +1,5 @@
+{
+  "iEEGCoordinateSystem": "Other",
+  "iEEGCoordinateUnits": "mm",
+  "iEEGCoordinateSystemDescription": "MNI coordinates (mm) as listed per contact and per period (pre/post disconnection) in the release Information_sheet.xlsx; the MNI template is not stated, so the system is given as Other. Temporal pole and subtemporal strip contacts have no coordinates in the release (NA -> n/a)."
+}

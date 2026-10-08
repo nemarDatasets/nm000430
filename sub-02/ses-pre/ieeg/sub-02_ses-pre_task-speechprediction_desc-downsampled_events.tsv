@@ -1,0 +1,745 @@
+onset	duration	trial_type	value	sample
+137.189	0	biasing sentence onset	1	137189
+138.946	0	target word onset / B bias / VOT 40ms	16	138946
+140.667	0	biasing sentence onset	1	140667
+142.758	0	target word onset / B bias / VOT 40ms	16	142758
+144.559	0	biasing sentence onset	1	144559
+146.379	0	target word onset / B bias / VOT 32ms	15	146379
+148.207	0	biasing sentence onset	1	148207
+150.707	0	target word onset / P bias / VOT 24ms	24	150707
+152.419	0	biasing sentence onset	1	152419
+155.155	0	target word onset / filler trial	30	155155
+156.934	0	biasing sentence onset	1	156934
+159.644	0	target word onset / P bias / VOT 16ms	23	159644
+161.36	0	biasing sentence onset	1	161360
+166.054	0	target word onset / filler trial	30	166054
+167.807	0	biasing sentence onset	1	167807
+171.104	0	target word onset / B bias / VOT 0ms	11	171104
+172.959	0	n/a	88	172959
+175.067	0	biasing sentence onset	1	175067
+178.432	0	target word onset / P bias / VOT 8ms	22	178432
+180.177	0	biasing sentence onset	1	180177
+183.118	0	target word onset / B bias / VOT 0ms	11	183118
+184.928	0	biasing sentence onset	1	184928
+186.904	0	target word onset / P bias / VOT 16ms	23	186904
+188.651	0	biasing sentence onset	1	188651
+190.979	0	target word onset / P bias / VOT 24ms	24	190979
+192.702	0	biasing sentence onset	1	192702
+196.493	0	target word onset / P bias / VOT 24ms	24	196493
+198.173	0	biasing sentence onset	1	198173
+200.351	0	target word onset / B bias / VOT 24ms	14	200351
+202.192	0	biasing sentence onset	1	202192
+204.308	0	target word onset / B bias / VOT 8ms	12	204308
+205.97	0	biasing sentence onset	1	205970
+208.075	0	target word onset / B bias / VOT 24ms	14	208075
+209.848	0	biasing sentence onset	1	209848
+212.235	0	target word onset / P bias / VOT 32ms	25	212235
+213.94	0	biasing sentence onset	1	213940
+216.172	0	target word onset / B bias / VOT 16ms	13	216172
+217.949	0	biasing sentence onset	1	217949
+221.903	0	target word onset / B bias / VOT 16ms	13	221903
+223.65	0	biasing sentence onset	1	223650
+225.59	0	target word onset / B bias / VOT 16ms	13	225590
+227.362	0	biasing sentence onset	1	227362
+229.063	0	target word onset / P bias / VOT 8ms	22	229063
+230.822	0	biasing sentence onset	1	230822
+232.556	0	target word onset / P bias / VOT 40ms	26	232556
+234.373	0	biasing sentence onset	1	234373
+237.284	0	target word onset / B bias / VOT 24ms	14	237284
+239.164	0	n/a	88	239164
+241.274	0	biasing sentence onset	1	241274
+244.536	0	target word onset / filler trial	30	244536
+246.468	0	biasing sentence onset	1	246468
+250.033	0	target word onset / filler trial	30	250033
+251.914	0	biasing sentence onset	1	251914
+253.521	0	target word onset / B bias / VOT 16ms	13	253521
+255.312	0	biasing sentence onset	1	255312
+257.248	0	target word onset / P bias / VOT 0ms	21	257248
+258.987	0	biasing sentence onset	1	258987
+262.553	0	target word onset / filler trial	30	262553
+264.429	0	biasing sentence onset	1	264429
+266.935	0	target word onset / filler trial	30	266935
+268.75	0	biasing sentence onset	1	268750
+270.746	0	target word onset / B bias / VOT 40ms	16	270746
+272.401	0	biasing sentence onset	1	272401
+275.012	0	target word onset / P bias / VOT 8ms	22	275012
+276.648	0	biasing sentence onset	1	276648
+279.126	0	target word onset / P bias / VOT 32ms	25	279126
+280.908	0	biasing sentence onset	1	280908
+283.806	0	target word onset / P bias / VOT 40ms	26	283806
+285.449	0	biasing sentence onset	1	285449
+288.53	0	target word onset / filler trial	30	288530
+290.402	0	biasing sentence onset	1	290402
+292.138	0	target word onset / P bias / VOT 16ms	23	292138
+293.89	0	biasing sentence onset	1	293890
+296.146	0	target word onset / B bias / VOT 32ms	15	296146
+297.943	0	biasing sentence onset	1	297943
+300.07	0	target word onset / P bias / VOT 16ms	23	300070
+301.826	0	biasing sentence onset	1	301826
+304.013	0	target word onset / P bias / VOT 8ms	22	304013
+305.837	0	n/a	88	305837
+307.941	0	biasing sentence onset	1	307941
+309.334	0	target word onset / B bias / VOT 32ms	15	309334
+310.983	0	biasing sentence onset	1	310983
+312.816	0	target word onset / B bias / VOT 24ms	14	312816
+314.547	0	biasing sentence onset	1	314547
+317.366	0	target word onset / filler trial	30	317366
+319.078	0	biasing sentence onset	1	319078
+321.006	0	target word onset / B bias / VOT 16ms	13	321006
+322.714	0	biasing sentence onset	1	322714
+324.285	0	target word onset / B bias / VOT 0ms	11	324285
+326.011	0	biasing sentence onset	1	326011
+328.127	0	target word onset / P bias / VOT 32ms	25	328127
+329.885	0	biasing sentence onset	1	329885
+331.428	0	target word onset / B bias / VOT 0ms	11	331428
+333.159	0	biasing sentence onset	1	333159
+335.077	0	target word onset / B bias / VOT 8ms	12	335077
+336.857	0	biasing sentence onset	1	336857
+338.763	0	target word onset / B bias / VOT 16ms	13	338763
+340.578	0	biasing sentence onset	1	340578
+342.764	0	target word onset / P bias / VOT 40ms	26	342764
+344.492	0	biasing sentence onset	1	344492
+346.878	0	target word onset / P bias / VOT 40ms	26	346878
+348.584	0	biasing sentence onset	1	348584
+350.66	0	target word onset / P bias / VOT 8ms	22	350660
+352.445	0	biasing sentence onset	1	352445
+355.198	0	target word onset / filler trial	30	355198
+357.052	0	biasing sentence onset	1	357052
+360.714	0	target word onset / B bias / VOT 24ms	14	360714
+362.41	0	biasing sentence onset	1	362410
+364.198	0	target word onset / P bias / VOT 16ms	23	364198
+366.073	0	n/a	88	366073
+368.156	0	biasing sentence onset	1	368156
+371.952	0	target word onset / P bias / VOT 0ms	21	371952
+373.63	0	biasing sentence onset	1	373630
+375.279	0	target word onset / B bias / VOT 24ms	14	375279
+377.029	0	biasing sentence onset	1	377029
+380.312	0	target word onset / P bias / VOT 32ms	25	380312
+382.039	0	biasing sentence onset	1	382039
+383.894	0	target word onset / B bias / VOT 40ms	16	383894
+385.633	0	biasing sentence onset	1	385633
+388.504	0	target word onset / B bias / VOT 32ms	15	388504
+390.299	0	biasing sentence onset	1	390299
+392.558	0	target word onset / B bias / VOT 8ms	12	392558
+394.306	0	biasing sentence onset	1	394306
+396.892	0	target word onset / P bias / VOT 24ms	24	396892
+398.619	0	biasing sentence onset	1	398619
+402.482	0	target word onset / filler trial	30	402482
+404.347	0	biasing sentence onset	1	404347
+408.287	0	target word onset / P bias / VOT 24ms	24	408287
+409.905	0	biasing sentence onset	1	409905
+412.778	0	target word onset / P bias / VOT 16ms	23	412778
+414.407	0	biasing sentence onset	1	414407
+416.343	0	target word onset / P bias / VOT 8ms	22	416343
+418.112	0	biasing sentence onset	1	418112
+420.447	0	target word onset / filler trial	30	420447
+422.222	0	biasing sentence onset	1	422222
+424.021	0	target word onset / P bias / VOT 24ms	24	424021
+425.742	0	biasing sentence onset	1	425742
+428.216	0	target word onset / P bias / VOT 8ms	22	428216
+429.951	0	biasing sentence onset	1	429951
+433.202	0	target word onset / filler trial	30	433202
+435.111	0	n/a	88	435111
+437.204	0	biasing sentence onset	1	437204
+439.353	0	target word onset / B bias / VOT 8ms	12	439353
+441.182	0	biasing sentence onset	1	441182
+443.326	0	target word onset / P bias / VOT 16ms	23	443326
+445.092	0	biasing sentence onset	1	445092
+448.467	0	target word onset / B bias / VOT 24ms	14	448467
+450.256	0	biasing sentence onset	1	450256
+452.279	0	target word onset / P bias / VOT 24ms	24	452279
+454.1	0	biasing sentence onset	1	454100
+457.073	0	target word onset / filler trial	30	457073
+458.907	0	biasing sentence onset	1	458907
+461.021	0	target word onset / P bias / VOT 32ms	25	461021
+462.69	0	biasing sentence onset	1	462690
+465.524	0	target word onset / filler trial	30	465524
+467.306	0	biasing sentence onset	1	467306
+469.184	0	target word onset / P bias / VOT 24ms	24	469184
+470.978	0	biasing sentence onset	1	470978
+473.354	0	target word onset / filler trial	30	473354
+475.19	0	biasing sentence onset	1	475190
+476.691	0	target word onset / B bias / VOT 32ms	15	476691
+478.43	0	biasing sentence onset	1	478430
+480.494	0	target word onset / B bias / VOT 32ms	15	480494
+482.278	0	biasing sentence onset	1	482278
+484.069	0	target word onset / B bias / VOT 40ms	16	484069
+485.752	0	biasing sentence onset	1	485752
+489.038	0	target word onset / filler trial	30	489038
+490.832	0	biasing sentence onset	1	490832
+494.359	0	target word onset / P bias / VOT 8ms	22	494359
+496.06	0	biasing sentence onset	1	496060
+497.953	0	target word onset / filler trial	30	497953
+499.936	0	n/a	88	499936
+502.045	0	biasing sentence onset	1	502045
+504.864	0	target word onset / filler trial	30	504864
+506.593	0	biasing sentence onset	1	506593
+508.665	0	target word onset / P bias / VOT 8ms	22	508665
+510.47	0	biasing sentence onset	1	510470
+511.607	0	target word onset / B bias / VOT 24ms	14	511607
+513.25	0	biasing sentence onset	1	513250
+516.48	0	target word onset / filler trial	30	516480
+518.364	0	biasing sentence onset	1	518364
+520.597	0	target word onset / P bias / VOT 0ms	21	520597
+522.407	0	biasing sentence onset	1	522407
+523.95	0	target word onset / B bias / VOT 8ms	12	523950
+525.643	0	biasing sentence onset	1	525643
+529.551	0	target word onset / P bias / VOT 16ms	23	529551
+549.29	0	biasing sentence onset	1	549290
+551.594	0	target word onset / P bias / VOT 24ms	24	551594
+553.313	0	biasing sentence onset	1	553313
+554.712	0	target word onset / B bias / VOT 8ms	12	554712
+556.404	0	biasing sentence onset	1	556404
+558.606	0	target word onset / P bias / VOT 8ms	22	558606
+560.377	0	biasing sentence onset	1	560377
+562.328	0	target word onset / B bias / VOT 8ms	12	562328
+564.064	0	biasing sentence onset	1	564064
+566.059	0	target word onset / P bias / VOT 8ms	22	566059
+567.834	0	biasing sentence onset	1	567834
+571.126	0	target word onset / B bias / VOT 8ms	12	571126
+572.853	0	biasing sentence onset	1	572853
+574.065	0	target word onset / B bias / VOT 16ms	13	574065
+575.707	0	biasing sentence onset	1	575707
+577.778	0	target word onset / B bias / VOT 32ms	15	577778
+579.597	0	n/a	88	579597
+581.701	0	biasing sentence onset	1	581701
+584.688	0	target word onset / filler trial	30	584688
+586.565	0	biasing sentence onset	1	586565
+589.169	0	target word onset / filler trial	30	589169
+591.022	0	biasing sentence onset	1	591022
+592.594	0	target word onset / B bias / VOT 0ms	11	592594
+594.318	0	biasing sentence onset	1	594318
+596.069	0	target word onset / P bias / VOT 0ms	21	596069
+597.832	0	biasing sentence onset	1	597832
+599.643	0	target word onset / B bias / VOT 0ms	11	599643
+601.453	0	biasing sentence onset	1	601453
+604.039	0	target word onset / filler trial	30	604039
+605.83	0	biasing sentence onset	1	605830
+607.911	0	target word onset / B bias / VOT 32ms	15	607911
+609.546	0	biasing sentence onset	1	609546
+612.274	0	target word onset / P bias / VOT 0ms	21	612274
+613.923	0	biasing sentence onset	1	613923
+615.421	0	target word onset / B bias / VOT 40ms	16	615421
+617.157	0	biasing sentence onset	1	617157
+619.271	0	target word onset / P bias / VOT 16ms	23	619271
+621.066	0	biasing sentence onset	1	621066
+624.133	0	target word onset / filler trial	30	624133
+625.931	0	biasing sentence onset	1	625931
+627.797	0	target word onset / P bias / VOT 40ms	26	627797
+629.483	0	biasing sentence onset	1	629483
+632.061	0	target word onset / filler trial	30	632061
+633.855	0	biasing sentence onset	1	633855
+636.213	0	target word onset / B bias / VOT 0ms	11	636213
+637.914	0	biasing sentence onset	1	637914
+639.656	0	target word onset / P bias / VOT 0ms	21	639656
+641.534	0	n/a	88	641534
+643.618	0	biasing sentence onset	1	643618
+645.973	0	target word onset / B bias / VOT 16ms	13	645973
+647.717	0	biasing sentence onset	1	647717
+650.052	0	target word onset / P bias / VOT 32ms	25	650052
+651.772	0	biasing sentence onset	1	651772
+654.393	0	target word onset / P bias / VOT 8ms	22	654393
+656.101	0	biasing sentence onset	1	656101
+658.463	0	target word onset / B bias / VOT 40ms	16	658463
+660.234	0	biasing sentence onset	1	660234
+662.567	0	target word onset / P bias / VOT 32ms	25	662567
+664.317	0	biasing sentence onset	1	664317
+666.256	0	target word onset / P bias / VOT 8ms	22	666256
+668.033	0	biasing sentence onset	1	668033
+669.715	0	target word onset / B bias / VOT 8ms	12	669715
+671.449	0	biasing sentence onset	1	671449
+673.514	0	target word onset / B bias / VOT 32ms	15	673514
+675.184	0	biasing sentence onset	1	675184
+678.553	0	target word onset / B bias / VOT 24ms	14	678553
+680.31	0	biasing sentence onset	1	680310
+682.248	0	target word onset / B bias / VOT 24ms	14	682248
+683.987	0	biasing sentence onset	1	683987
+686.182	0	target word onset / P bias / VOT 24ms	24	686182
+687.933	0	biasing sentence onset	1	687933
+689.459	0	target word onset / B bias / VOT 24ms	14	689459
+691.259	0	biasing sentence onset	1	691259
+692.937	0	target word onset / B bias / VOT 16ms	13	692937
+694.673	0	biasing sentence onset	1	694673
+696.405	0	target word onset / P bias / VOT 24ms	24	696405
+698.165	0	biasing sentence onset	1	698165
+701.24	0	target word onset / B bias / VOT 40ms	16	701240
+703.072	0	n/a	88	703072
+705.163	0	biasing sentence onset	1	705163
+707.651	0	target word onset / P bias / VOT 8ms	22	707651
+709.364	0	biasing sentence onset	1	709364
+711.314	0	target word onset / B bias / VOT 0ms	11	711314
+713.106	0	biasing sentence onset	1	713106
+715.315	0	target word onset / P bias / VOT 32ms	25	715315
+717.099	0	biasing sentence onset	1	717099
+719.751	0	target word onset / P bias / VOT 0ms	21	719751
+721.482	0	biasing sentence onset	1	721482
+723.877	0	target word onset / filler trial	30	723877
+725.588	0	biasing sentence onset	1	725588
+728.083	0	target word onset / P bias / VOT 0ms	21	728083
+729.853	0	biasing sentence onset	1	729853
+731.324	0	target word onset / B bias / VOT 16ms	13	731324
+733.03	0	biasing sentence onset	1	733030
+734.988	0	target word onset / P bias / VOT 32ms	25	734988
+736.674	0	biasing sentence onset	1	736674
+739.357	0	target word onset / filler trial	30	739357
+741.075	0	biasing sentence onset	1	741075
+742.851	0	target word onset / B bias / VOT 32ms	15	742851
+744.53	0	biasing sentence onset	1	744530
+747.002	0	target word onset / P bias / VOT 40ms	26	747002
+748.711	0	biasing sentence onset	1	748711
+753.425	0	target word onset / filler trial	30	753425
+755.2	0	biasing sentence onset	1	755200
+757.235	0	target word onset / filler trial	30	757235
+759.054	0	biasing sentence onset	1	759054
+760.73	0	target word onset / B bias / VOT 0ms	11	760730
+762.493	0	biasing sentence onset	1	762493
+764.152	0	target word onset / B bias / VOT 40ms	16	764152
+765.981	0	n/a	88	765981
+768.064	0	biasing sentence onset	1	768064
+770.457	0	target word onset / P bias / VOT 0ms	21	770457
+772.246	0	biasing sentence onset	1	772246
+774.501	0	target word onset / B bias / VOT 16ms	13	774501
+776.25	0	biasing sentence onset	1	776250
+778.159	0	target word onset / B bias / VOT 0ms	11	778159
+779.811	0	biasing sentence onset	1	779811
+781.911	0	target word onset / B bias / VOT 24ms	14	781911
+783.683	0	biasing sentence onset	1	783683
+786.11	0	target word onset / P bias / VOT 0ms	21	786110
+787.805	0	biasing sentence onset	1	787805
+791.668	0	target word onset / P bias / VOT 40ms	26	791668
+793.352	0	biasing sentence onset	1	793352
+794.574	0	target word onset / B bias / VOT 16ms	13	794574
+796.198	0	biasing sentence onset	1	796198
+798.09	0	target word onset / B bias / VOT 8ms	12	798090
+799.863	0	biasing sentence onset	1	799863
+801.898	0	target word onset / B bias / VOT 8ms	12	801898
+803.595	0	biasing sentence onset	1	803595
+805.833	0	target word onset / B bias / VOT 24ms	14	805833
+807.525	0	biasing sentence onset	1	807525
+809.206	0	target word onset / B bias / VOT 0ms	11	809206
+810.914	0	biasing sentence onset	1	810914
+812.863	0	target word onset / P bias / VOT 0ms	21	812863
+814.556	0	biasing sentence onset	1	814556
+816.647	0	target word onset / P bias / VOT 32ms	25	816647
+818.476	0	biasing sentence onset	1	818476
+822.254	0	target word onset / filler trial	30	822254
+824.207	0	biasing sentence onset	1	824207
+826.283	0	target word onset / P bias / VOT 16ms	23	826283
+828.152	0	n/a	88	828152
+830.243	0	biasing sentence onset	1	830243
+832.015	0	target word onset / B bias / VOT 40ms	16	832015
+833.668	0	biasing sentence onset	1	833668
+835.924	0	target word onset / P bias / VOT 24ms	24	835924
+837.683	0	biasing sentence onset	1	837683
+840.017	0	target word onset / filler trial	30	840017
+841.815	0	biasing sentence onset	1	841815
+844.128	0	target word onset / filler trial	30	844128
+846.01	0	biasing sentence onset	1	846010
+847.825	0	target word onset / P bias / VOT 40ms	26	847825
+849.558	0	biasing sentence onset	1	849558
+851.625	0	target word onset / B bias / VOT 32ms	15	851625
+853.461	0	biasing sentence onset	1	853461
+856.216	0	target word onset / B bias / VOT 24ms	14	856216
+857.928	0	biasing sentence onset	1	857928
+860.214	0	target word onset / P bias / VOT 32ms	25	860214
+861.881	0	biasing sentence onset	1	861881
+864.21	0	target word onset / P bias / VOT 32ms	25	864210
+865.944	0	biasing sentence onset	1	865944
+868.251	0	target word onset / P bias / VOT 0ms	21	868251
+870.029	0	biasing sentence onset	1	870029
+871.387	0	target word onset / B bias / VOT 40ms	16	871387
+873.038	0	biasing sentence onset	1	873038
+875.142	0	target word onset / P bias / VOT 24ms	24	875142
+876.787	0	biasing sentence onset	1	876787
+879.139	0	target word onset / P bias / VOT 16ms	23	879139
+880.927	0	biasing sentence onset	1	880927
+882.909	0	target word onset / P bias / VOT 0ms	21	882909
+884.645	0	biasing sentence onset	1	884645
+887.735	0	target word onset / filler trial	30	887735
+889.647	0	n/a	88	889647
+891.73	0	biasing sentence onset	1	891730
+893.637	0	target word onset / B bias / VOT 24ms	14	893637
+895.373	0	biasing sentence onset	1	895373
+898.043	0	target word onset / B bias / VOT 16ms	13	898043
+899.821	0	biasing sentence onset	1	899821
+903.142	0	target word onset / P bias / VOT 0ms	21	903142
+904.799	0	biasing sentence onset	1	904799
+906.891	0	target word onset / P bias / VOT 32ms	25	906891
+908.66	0	biasing sentence onset	1	908660
+912.041	0	target word onset / B bias / VOT 40ms	16	912041
+913.738	0	biasing sentence onset	1	913738
+915.646	0	target word onset / B bias / VOT 24ms	14	915646
+917.301	0	biasing sentence onset	1	917301
+919.241	0	target word onset / B bias / VOT 0ms	11	919241
+941.248	0	biasing sentence onset	1	941248
+942.662	0	target word onset / B bias / VOT 32ms	15	942662
+944.293	0	biasing sentence onset	1	944293
+947.2	0	target word onset / filler trial	30	947200
+949.0	0	biasing sentence onset	1	949000
+953.846	0	target word onset / filler trial	30	953846
+955.561	0	biasing sentence onset	1	955561
+957.345	0	target word onset / B bias / VOT 40ms	16	957345
+959.113	0	biasing sentence onset	1	959113
+962.126	0	target word onset / filler trial	30	962126
+964.015	0	biasing sentence onset	1	964015
+967.721	0	target word onset / B bias / VOT 8ms	12	967721
+969.48	0	biasing sentence onset	1	969480
+971.522	0	target word onset / P bias / VOT 0ms	21	971522
+973.203	0	biasing sentence onset	1	973203
+976.422	0	target word onset / filler trial	30	976422
+978.399	0	n/a	88	978399
+980.49	0	biasing sentence onset	1	980490
+982.754	0	target word onset / P bias / VOT 8ms	22	982754
+984.515	0	biasing sentence onset	1	984515
+985.919	0	target word onset / B bias / VOT 8ms	12	985919
+987.604	0	biasing sentence onset	1	987604
+990.213	0	target word onset / P bias / VOT 0ms	21	990213
+991.872	0	biasing sentence onset	1	991872
+994.579	0	target word onset / filler trial	30	994579
+996.483	0	biasing sentence onset	1	996483
+998.463	0	target word onset / P bias / VOT 0ms	21	998463
+1000.179	0	biasing sentence onset	1	1000179
+1004.048	0	target word onset / B bias / VOT 0ms	11	1004048
+1005.814	0	biasing sentence onset	1	1005814
+1007.926	0	target word onset / P bias / VOT 40ms	26	1007926
+1009.701	0	biasing sentence onset	1	1009701
+1012.184	0	target word onset / B bias / VOT 0ms	11	1012184
+1013.978	0	biasing sentence onset	1	1013978
+1015.969	0	target word onset / P bias / VOT 24ms	24	1015969
+1017.72	0	biasing sentence onset	1	1017720
+1019.497	0	target word onset / B bias / VOT 0ms	11	1019497
+1021.258	0	biasing sentence onset	1	1021258
+1023.193	0	target word onset / P bias / VOT 24ms	24	1023193
+1024.936	0	biasing sentence onset	1	1024936
+1026.812	0	target word onset / B bias / VOT 32ms	15	1026812
+1028.606	0	biasing sentence onset	1	1028606
+1030.718	0	target word onset / B bias / VOT 24ms	14	1030718
+1032.423	0	biasing sentence onset	1	1032423
+1033.733	0	target word onset / B bias / VOT 8ms	12	1033733
+1035.396	0	biasing sentence onset	1	1035396
+1038.215	0	target word onset / filler trial	30	1038215
+1040.194	0	n/a	88	1040194
+1042.276	0	biasing sentence onset	1	1042276
+1044.042	0	target word onset / B bias / VOT 24ms	14	1044042
+1045.788	0	biasing sentence onset	1	1045788
+1048.455	0	target word onset / B bias / VOT 8ms	12	1048455
+1050.267	0	biasing sentence onset	1	1050267
+1051.539	0	target word onset / B bias / VOT 0ms	11	1051539
+1053.243	0	biasing sentence onset	1	1053243
+1056.322	0	target word onset / filler trial	30	1056322
+1058.098	0	biasing sentence onset	1	1058098
+1060.398	0	target word onset / P bias / VOT 40ms	26	1060398
+1062.153	0	biasing sentence onset	1	1062153
+1064.36	0	target word onset / P bias / VOT 16ms	23	1064360
+1066.055	0	biasing sentence onset	1	1066055
+1070.031	0	target word onset / B bias / VOT 32ms	15	1070031
+1071.76	0	biasing sentence onset	1	1071760
+1075.135	0	target word onset / filler trial	30	1075135
+1076.978	0	biasing sentence onset	1	1076978
+1080.259	0	target word onset / B bias / VOT 16ms	13	1080259
+1081.981	0	biasing sentence onset	1	1081981
+1084.086	0	target word onset / P bias / VOT 32ms	25	1084086
+1085.857	0	biasing sentence onset	1	1085857
+1088.299	0	target word onset / P bias / VOT 8ms	22	1088299
+1089.965	0	biasing sentence onset	1	1089965
+1091.85	0	target word onset / B bias / VOT 24ms	14	1091850
+1093.502	0	biasing sentence onset	1	1093502
+1095.008	0	target word onset / B bias / VOT 40ms	16	1095008
+1096.716	0	biasing sentence onset	1	1096716
+1099.701	0	target word onset / B bias / VOT 32ms	15	1099701
+1101.441	0	biasing sentence onset	1	1101441
+1103.632	0	target word onset / filler trial	30	1103632
+1105.604	0	n/a	88	1105604
+1107.695	0	biasing sentence onset	1	1107695
+1109.651	0	target word onset / P bias / VOT 8ms	22	1109651
+1111.365	0	biasing sentence onset	1	1111365
+1113.308	0	target word onset / P bias / VOT 40ms	26	1113308
+1115.068	0	biasing sentence onset	1	1115068
+1118.681	0	target word onset / B bias / VOT 16ms	13	1118681
+1120.376	0	biasing sentence onset	1	1120376
+1122.707	0	target word onset / P bias / VOT 40ms	26	1122707
+1124.46	0	biasing sentence onset	1	1124460
+1126.487	0	target word onset / B bias / VOT 40ms	16	1126487
+1128.129	0	biasing sentence onset	1	1128129
+1129.937	0	target word onset / B bias / VOT 8ms	12	1129937
+1131.604	0	biasing sentence onset	1	1131604
+1133.715	0	target word onset / P bias / VOT 40ms	26	1133715
+1135.423	0	biasing sentence onset	1	1135423
+1138.5	0	target word onset / P bias / VOT 32ms	25	1138500
+1140.156	0	biasing sentence onset	1	1140156
+1142.774	0	target word onset / P bias / VOT 16ms	23	1142774
+1144.49	0	biasing sentence onset	1	1144490
+1147.301	0	target word onset / filler trial	30	1147301
+1149.125	0	biasing sentence onset	1	1149125
+1151.158	0	target word onset / B bias / VOT 24ms	14	1151158
+1152.908	0	biasing sentence onset	1	1152908
+1155.688	0	target word onset / filler trial	30	1155688
+1157.411	0	biasing sentence onset	1	1157411
+1159.377	0	target word onset / P bias / VOT 8ms	22	1159377
+1161.137	0	biasing sentence onset	1	1161137
+1163.314	0	target word onset / P bias / VOT 16ms	23	1163314
+1165.035	0	biasing sentence onset	1	1165035
+1167.288	0	target word onset / P bias / VOT 0ms	21	1167288
+1169.164	0	n/a	88	1169164
+1171.273	0	biasing sentence onset	1	1171273
+1174.466	0	target word onset / filler trial	30	1174466
+1176.435	0	biasing sentence onset	1	1176435
+1178.747	0	target word onset / P bias / VOT 16ms	23	1178747
+1180.509	0	biasing sentence onset	1	1180509
+1182.766	0	target word onset / B bias / VOT 32ms	15	1182766
+1184.549	0	biasing sentence onset	1	1184549
+1186.743	0	target word onset / P bias / VOT 40ms	26	1186743
+1188.366	0	biasing sentence onset	1	1188366
+1191.9	0	target word onset / filler trial	30	1191900
+1193.686	0	biasing sentence onset	1	1193686
+1197.591	0	target word onset / B bias / VOT 40ms	16	1197591
+1199.283	0	biasing sentence onset	1	1199283
+1203.043	0	target word onset / filler trial	30	1203043
+1204.952	0	biasing sentence onset	1	1204952
+1207.375	0	target word onset / P bias / VOT 24ms	24	1207375
+1209.103	0	biasing sentence onset	1	1209103
+1210.935	0	target word onset / P bias / VOT 16ms	23	1210935
+1212.719	0	biasing sentence onset	1	1212719
+1214.154	0	target word onset / B bias / VOT 32ms	15	1214154
+1215.875	0	biasing sentence onset	1	1215875
+1218.059	0	target word onset / B bias / VOT 0ms	11	1218059
+1219.772	0	biasing sentence onset	1	1219772
+1221.717	0	target word onset / B bias / VOT 8ms	12	1221717
+1223.504	0	biasing sentence onset	1	1223504
+1226.85	0	target word onset / filler trial	30	1226850
+1228.686	0	biasing sentence onset	1	1228686
+1230.784	0	target word onset / P bias / VOT 40ms	26	1230784
+1232.635	0	biasing sentence onset	1	1232635
+1234.929	0	target word onset / filler trial	30	1234929
+1236.827	0	n/a	88	1236827
+1238.93	0	biasing sentence onset	1	1238930
+1241.188	0	target word onset / P bias / VOT 16ms	23	1241188
+1242.884	0	biasing sentence onset	1	1242884
+1245.731	0	target word onset / filler trial	30	1245731
+1247.475	0	biasing sentence onset	1	1247475
+1249.452	0	target word onset / B bias / VOT 40ms	16	1249452
+1251.224	0	biasing sentence onset	1	1251224
+1253.364	0	target word onset / P bias / VOT 0ms	21	1253364
+1255.118	0	biasing sentence onset	1	1255118
+1257.209	0	target word onset / P bias / VOT 0ms	21	1257209
+1259.004	0	biasing sentence onset	1	1259004
+1262.035	0	target word onset / filler trial	30	1262035
+1263.784	0	biasing sentence onset	1	1263784
+1266.366	0	target word onset / B bias / VOT 32ms	15	1266366
+1268.08	0	biasing sentence onset	1	1268080
+1270.469	0	target word onset / filler trial	30	1270469
+1272.309	0	biasing sentence onset	1	1272309
+1274.307	0	target word onset / B bias / VOT 8ms	12	1274307
+1275.957	0	biasing sentence onset	1	1275957
+1278.49	0	target word onset / B bias / VOT 24ms	14	1278490
+1280.286	0	biasing sentence onset	1	1280286
+1281.859	0	target word onset / B bias / VOT 8ms	12	1281859
+1283.591	0	biasing sentence onset	1	1283591
+1287.175	0	target word onset / filler trial	30	1287175
+1289.059	0	biasing sentence onset	1	1289059
+1292.152	0	target word onset / B bias / VOT 0ms	11	1292152
+1293.909	0	biasing sentence onset	1	1293909
+1296.343	0	target word onset / P bias / VOT 8ms	22	1296343
+1298.085	0	biasing sentence onset	1	1298085
+1300.484	0	target word onset / P bias / VOT 24ms	24	1300484
+1302.309	0	n/a	88	1302309
+1304.4	0	biasing sentence onset	1	1304400
+1306.248	0	target word onset / P bias / VOT 8ms	22	1306248
+1308.01	0	biasing sentence onset	1	1308010
+1309.153	0	target word onset / B bias / VOT 0ms	11	1309153
+1310.815	0	biasing sentence onset	1	1310815
+1313.41	0	target word onset / P bias / VOT 8ms	22	1313410
+1315.169	0	biasing sentence onset	1	1315169
+1317.196	0	target word onset / B bias / VOT 32ms	15	1317196
+1318.817	0	biasing sentence onset	1	1318817
+1320.599	0	target word onset / B bias / VOT 16ms	13	1320599
+1322.329	0	biasing sentence onset	1	1322329
+1325.218	0	target word onset / B bias / VOT 32ms	15	1325218
+1326.962	0	biasing sentence onset	1	1326962
+1329.154	0	target word onset / B bias / VOT 40ms	16	1329154
+1342.728	0	biasing sentence onset	1	1342728
+1345.479	0	target word onset / B bias / VOT 8ms	12	1345479
+1347.313	0	biasing sentence onset	1	1347313
+1349.167	0	target word onset / P bias / VOT 40ms	26	1349167
+1350.973	0	biasing sentence onset	1	1350973
+1353.493	0	target word onset / filler trial	30	1353493
+1355.278	0	biasing sentence onset	1	1355278
+1359.357	0	target word onset / filler trial	30	1359357
+1361.137	0	biasing sentence onset	1	1361137
+1363.654	0	target word onset / B bias / VOT 16ms	13	1363654
+1365.401	0	biasing sentence onset	1	1365401
+1367.433	0	target word onset / filler trial	30	1367433
+1369.249	0	biasing sentence onset	1	1369249
+1373.729	0	target word onset / filler trial	30	1373729
+1375.483	0	biasing sentence onset	1	1375483
+1377.486	0	target word onset / P bias / VOT 40ms	26	1377486
+1379.355	0	n/a	88	1379355
+1381.445	0	biasing sentence onset	1	1381445
+1383.554	0	target word onset / P bias / VOT 40ms	26	1383554
+1385.316	0	biasing sentence onset	1	1385316
+1387.524	0	target word onset / P bias / VOT 24ms	24	1387524
+1389.336	0	biasing sentence onset	1	1389336
+1392.915	0	target word onset / filler trial	30	1392915
+1394.835	0	biasing sentence onset	1	1394835
+1397.94	0	target word onset / B bias / VOT 8ms	12	1397940
+1399.696	0	biasing sentence onset	1	1399696
+1403.704	0	target word onset / filler trial	30	1403704
+1405.473	0	biasing sentence onset	1	1405473
+1408.161	0	target word onset / filler trial	30	1408161
+1410.079	0	biasing sentence onset	1	1410079
+1412.015	0	target word onset / P bias / VOT 32ms	25	1412015
+1413.794	0	biasing sentence onset	1	1413794
+1416.573	0	target word onset / P bias / VOT 40ms	26	1416573
+1418.262	0	biasing sentence onset	1	1418262
+1420.344	0	target word onset / P bias / VOT 24ms	24	1420344
+1422.015	0	biasing sentence onset	1	1422015
+1424.454	0	target word onset / filler trial	30	1424454
+1426.354	0	biasing sentence onset	1	1426354
+1428.587	0	target word onset / P bias / VOT 32ms	25	1428587
+1430.359	0	biasing sentence onset	1	1430359
+1433.731	0	target word onset / P bias / VOT 40ms	26	1433731
+1435.45	0	biasing sentence onset	1	1435450
+1437.271	0	target word onset / B bias / VOT 32ms	15	1437271
+1438.961	0	biasing sentence onset	1	1438961
+1441.218	0	target word onset / P bias / VOT 0ms	21	1441218
+1442.97	0	biasing sentence onset	1	1442970
+1444.635	0	target word onset / P bias / VOT 32ms	25	1444635
+1446.503	0	n/a	88	1446503
+1448.592	0	biasing sentence onset	1	1448592
+1450.319	0	target word onset / P bias / VOT 32ms	25	1450319
+1452.106	0	biasing sentence onset	1	1452106
+1454.578	0	target word onset / filler trial	30	1454578
+1456.338	0	biasing sentence onset	1	1456338
+1458.454	0	target word onset / P bias / VOT 16ms	23	1458454
+1460.204	0	biasing sentence onset	1	1460204
+1462.182	0	target word onset / B bias / VOT 16ms	13	1462182
+1463.894	0	biasing sentence onset	1	1463894
+1465.668	0	target word onset / B bias / VOT 32ms	15	1465668
+1467.439	0	biasing sentence onset	1	1467439
+1469.655	0	target word onset / P bias / VOT 24ms	24	1469655
+1471.403	0	biasing sentence onset	1	1471403
+1473.206	0	target word onset / B bias / VOT 24ms	14	1473206
+1474.85	0	biasing sentence onset	1	1474850
+1477.904	0	target word onset / B bias / VOT 40ms	16	1477904
+1479.59	0	biasing sentence onset	1	1479590
+1481.41	0	target word onset / B bias / VOT 16ms	13	1481410
+1483.047	0	biasing sentence onset	1	1483047
+1484.676	0	target word onset / B bias / VOT 16ms	13	1484676
+1486.414	0	biasing sentence onset	1	1486414
+1489.25	0	target word onset / filler trial	30	1489250
+1491.057	0	biasing sentence onset	1	1491057
+1494.676	0	target word onset / B bias / VOT 32ms	15	1494676
+1496.358	0	biasing sentence onset	1	1496358
+1498.792	0	target word onset / filler trial	30	1498792
+1500.643	0	biasing sentence onset	1	1500643
+1502.603	0	target word onset / P bias / VOT 32ms	25	1502603
+1504.315	0	biasing sentence onset	1	1504315
+1507.738	0	target word onset / B bias / VOT 0ms	11	1507738
+1509.559	0	n/a	88	1509559
+1511.65	0	biasing sentence onset	1	1511650
+1513.889	0	target word onset / P bias / VOT 0ms	21	1513889
+1515.65	0	biasing sentence onset	1	1515650
+1517.874	0	target word onset / filler trial	30	1517874
+1519.706	0	biasing sentence onset	1	1519706
+1521.379	0	target word onset / P bias / VOT 8ms	22	1521379
+1523.157	0	biasing sentence onset	1	1523157
+1525.357	0	target word onset / B bias / VOT 0ms	11	1525357
+1527.048	0	biasing sentence onset	1	1527048
+1530.148	0	target word onset / filler trial	30	1530148
+1532.032	0	biasing sentence onset	1	1532032
+1535.53	0	target word onset / filler trial	30	1535530
+1537.454	0	biasing sentence onset	1	1537454
+1539.08	0	target word onset / B bias / VOT 16ms	13	1539080
+1540.775	0	biasing sentence onset	1	1540775
+1543.441	0	target word onset / P bias / VOT 16ms	23	1543441
+1545.07	0	biasing sentence onset	1	1545070
+1548.446	0	target word onset / B bias / VOT 16ms	13	1548446
+1550.146	0	biasing sentence onset	1	1550146
+1551.997	0	target word onset / B bias / VOT 40ms	16	1551997
+1553.816	0	biasing sentence onset	1	1553816
+1557.166	0	target word onset / B bias / VOT 32ms	15	1557166
+1558.847	0	biasing sentence onset	1	1558847
+1561.202	0	target word onset / filler trial	30	1561202
+1562.981	0	biasing sentence onset	1	1562981
+1565.26	0	target word onset / B bias / VOT 24ms	14	1565260
+1566.947	0	biasing sentence onset	1	1566947
+1568.936	0	target word onset / P bias / VOT 24ms	24	1568936
+1570.582	0	biasing sentence onset	1	1570582
+1572.782	0	target word onset / P bias / VOT 8ms	22	1572782
+1574.656	0	n/a	88	1574656
+1576.737	0	biasing sentence onset	1	1576737
+1578.738	0	target word onset / B bias / VOT 16ms	13	1578738
+1580.533	0	biasing sentence onset	1	1580533
+1583.081	0	target word onset / filler trial	30	1583081
+1584.863	0	biasing sentence onset	1	1584863
+1586.901	0	target word onset / P bias / VOT 40ms	26	1586901
+1588.735	0	biasing sentence onset	1	1588735
+1590.929	0	target word onset / P bias / VOT 32ms	25	1590929
+1592.658	0	biasing sentence onset	1	1592658
+1594.304	0	target word onset / P bias / VOT 0ms	21	1594304
+1596.075	0	biasing sentence onset	1	1596075
+1597.804	0	target word onset / P bias / VOT 40ms	26	1597804
+1599.514	0	biasing sentence onset	1	1599514
+1601.919	0	target word onset / B bias / VOT 0ms	11	1601919
+1603.628	0	biasing sentence onset	1	1603628
+1606.128	0	target word onset / B bias / VOT 8ms	12	1606128
+1607.9	0	biasing sentence onset	1	1607900
+1610.467	0	target word onset / filler trial	30	1610467
+1612.235	0	biasing sentence onset	1	1612235
+1614.702	0	target word onset / P bias / VOT 16ms	23	1614702
+1616.416	0	biasing sentence onset	1	1616416
+1618.71	0	target word onset / B bias / VOT 40ms	16	1618710
+1620.427	0	biasing sentence onset	1	1620427
+1622.367	0	target word onset / B bias / VOT 0ms	11	1622367
+1624.027	0	biasing sentence onset	1	1624027
+1626.23	0	target word onset / P bias / VOT 16ms	23	1626230
+1627.972	0	biasing sentence onset	1	1627972
+1630.704	0	target word onset / B bias / VOT 40ms	16	1630704
+1632.439	0	biasing sentence onset	1	1632439
+1634.307	0	target word onset / P bias / VOT 8ms	22	1634307
+1636.068	0	n/a	88	1636068
+1638.148	0	biasing sentence onset	1	1638148
+1641.098	0	target word onset / filler trial	30	1641098
+1643.015	0	biasing sentence onset	1	1643015
+1646.385	0	target word onset / B bias / VOT 8ms	12	1646385
+1648.202	0	biasing sentence onset	1	1648202
+1651.796	0	target word onset / P bias / VOT 32ms	25	1651796
+1653.412	0	biasing sentence onset	1	1653412
+1655.744	0	target word onset / P bias / VOT 40ms	26	1655744
+1657.524	0	biasing sentence onset	1	1657524
+1659.673	0	target word onset / B bias / VOT 16ms	13	1659673
+1661.329	0	biasing sentence onset	1	1661329
+1663.156	0	target word onset / P bias / VOT 16ms	23	1663156
+1664.826	0	biasing sentence onset	1	1664826
+1667.122	0	target word onset / P bias / VOT 32ms	25	1667122
+1668.87	0	biasing sentence onset	1	1668870
+1670.754	0	target word onset / P bias / VOT 16ms	23	1670754
+1672.465	0	biasing sentence onset	1	1672465
+1674.744	0	target word onset / P bias / VOT 40ms	26	1674744
+1676.439	0	biasing sentence onset	1	1676439
+1679.158	0	target word onset / filler trial	30	1679158
+1680.919	0	biasing sentence onset	1	1680919
+1682.875	0	target word onset / P bias / VOT 24ms	24	1682875
+1684.645	0	biasing sentence onset	1	1684645
+1686.58	0	target word onset / P bias / VOT 0ms	21	1686580
+1688.241	0	biasing sentence onset	1	1688241
+1691.101	0	target word onset / B bias / VOT 40ms	16	1691101
+1692.837	0	biasing sentence onset	1	1692837
+1695.372	0	target word onset / P bias / VOT 32ms	25	1695372
+1697.057	0	biasing sentence onset	1	1697057
+1699.864	0	target word onset / filler trial	30	1699864
+1701.683	0	n/a	88	1701683
+1703.774	0	biasing sentence onset	1	1703774
+1705.429	0	target word onset / B bias / VOT 8ms	12	1705429
+1707.219	0	biasing sentence onset	1	1707219
+1709.137	0	target word onset / B bias / VOT 0ms	11	1709137
+1710.884	0	biasing sentence onset	1	1710884
+1712.737	0	target word onset / B bias / VOT 40ms	16	1712737
+1714.522	0	biasing sentence onset	1	1714522
+1716.79	0	target word onset / P bias / VOT 24ms	24	1716790
+1718.542	0	biasing sentence onset	1	1718542
+1721.027	0	target word onset / P bias / VOT 24ms	24	1721027
+1722.67	0	biasing sentence onset	1	1722670
+1726.466	0	target word onset / P bias / VOT 16ms	23	1726466
+1728.112	0	biasing sentence onset	1	1728112
+1729.449	0	target word onset / B bias / VOT 24ms	14	1729449

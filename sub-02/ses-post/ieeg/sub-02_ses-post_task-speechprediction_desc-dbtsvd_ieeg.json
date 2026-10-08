@@ -1,0 +1,36 @@
+{
+  "TaskName": "speechprediction",
+  "TaskDescription": "Speech prediction task: a biasing sentence followed by a target word whose voice onset time (VOT) varies along a /b/-/p/ continuum; filler trials (article; event codes in Information_sheet.xlsx).",
+  "PowerLineFrequency": 60,
+  "SoftwareFilters": {
+    "Downsampling": {
+      "Description": "2000 Hz -> 1000 Hz (article)"
+    },
+    "DBT": {
+      "Description": "Demodulated band transform denoising, bandwidth 0.25 (article)"
+    },
+    "SVD": {
+      "Description": "First principal component removed (covariance of the 300 Hz high-passed data; article)"
+    }
+  },
+  "HardwareFilters": {
+    "Bandpass": {
+      "Description": "0.7-800 Hz, 12 dB/octave roll-off (TDT; article)"
+    }
+  },
+  "iEEGReference": "Subgaleal reference electrode (article: two subgaleal electrodes were used as ground and reference)",
+  "iEEGGround": "Subgaleal electrode (article)",
+  "Manufacturer": "Tucker-Davis Technologies",
+  "ElectricalStimulation": false,
+  "iEEGPlacementScheme": "Left hemisphere: frontal grid (P1 96, P2 64 contacts per article), temporal pole, subtemporal and lateral temporal strips, 8-contact Heschl's gyrus depth electrode (article); recorded minutes after left anterior temporal lobe disconnection under acute electrocorticography",
+  "SamplingFrequency": 1000.0,
+  "RecordingDuration": 1883.599,
+  "RecordingType": "continuous",
+  "ECOGChannelCount": 76,
+  "SEEGChannelCount": 8,
+  "DBSChannelCount": 0,
+  "EEGChannelCount": 0,
+  "EMGChannelCount": 0,
+  "MiscChannelCount": 44,
+  "TriggerChannelCount": 0
+}

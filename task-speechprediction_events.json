@@ -1,0 +1,19 @@
+{
+  "onset": {
+    "Description": "Release event sample (1-based) converted to seconds: (sample - 1) / 1000",
+    "Units": "s"
+  },
+  "duration": {
+    "Description": "0 (onset markers)",
+    "Units": "s"
+  },
+  "trial_type": {
+    "Description": "Meaning of the event code (Information_sheet.xlsx, sheet 'event codes')"
+  },
+  "value": {
+    "Description": "Event code; meanings from the release sheet: 1 = biasing sentence onset; 11 = target word onset / B bias / VOT 0ms; 12 = target word onset / B bias / VOT 8ms; 13 = target word onset / B bias / VOT 16ms; 14 = target word onset / B bias / VOT 24ms; 15 = target word onset / B bias / VOT 32ms; 16 = target word onset / B bias / VOT 40ms; 21 = target word onset / P bias / VOT 0ms; 22 = target word onset / P bias / VOT 8ms; 23 = target word onset / P bias / VOT 16ms; 24 = target word onset / P bias / VOT 24ms; 25 = target word onset / P bias / VOT 32ms; 26 = target word onset / P bias / VOT 40ms; 30 = target word onset / filler trial; codes not in the sheet (e.g. 88) have trial_type n/a"
+  },
+  "sample": {
+    "Description": "0-based sample (release sample - 1)"
+  }
+}

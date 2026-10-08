@@ -1,0 +1,9 @@
+{
+  "SpatialReference": "MNI template (not named in the release); coordinates as listed in Information_sheet.xlsx",
+  "desikan_killiany": {
+    "Description": "Desikan-Killiany label of the contact (release Information_sheet.xlsx)"
+  },
+  "destrieux": {
+    "Description": "Destrieux label of the contact (release Information_sheet.xlsx)"
+  }
+}

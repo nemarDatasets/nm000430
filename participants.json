@@ -1,0 +1,25 @@
+{
+  "source_id": {
+    "Description": "Participant in the release file names"
+  },
+  "age": {
+    "Description": "Age at surgery (article: P1 63-year-old woman, P2 32-year-old man)",
+    "Units": "year"
+  },
+  "sex": {
+    "Description": "Article",
+    "Levels": {
+      "F": "female",
+      "M": "male"
+    }
+  },
+  "handedness": {
+    "Description": "Article: both right-handed, left-hemisphere language dominant (Wada)",
+    "Levels": {
+      "R": "right"
+    }
+  },
+  "diagnosis": {
+    "Description": "Article"
+  }
+}

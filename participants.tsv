@@ -1,0 +1,3 @@
+participant_id	source_id	age	sex	handedness	diagnosis
+sub-01	P1	63	F	R	medically refractory epilepsy
+sub-02	P2	32	M	R	medically refractory epilepsy
