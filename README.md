@@ -1,0 +1,36 @@
+[![DOI](https://img.shields.io/badge/DOI-10.82901%2Fnemar.nm000430-blue)](https://doi.org/10.82901/nemar.nm000430)
+
+# Intracranial recordings before and after semantic hub (left ATL) disconnection (Kocsis et al., 2023) - DERIVATIVE
+
+Acute electrocorticography from two epilepsy surgery patients (University of Iowa) recorded during a speech prediction task
+minutes before (`ses-pre`) and after (`ses-post`) neurosurgical disconnection of the left anterior temporal lobe (ATL).
+Article: left hemisphere; frontal grid (96 contacts P1, 64 contacts P2), temporal pole, subtemporal and lateral temporal
+strips, an 8-contact Heschl's gyrus depth electrode; two subgaleal electrodes as ground and reference; anaesthesia stopped
+at least 20 min before each recording.
+
+THIS IS A DERIVATIVE DATASET: the release's "raw" files are already downsampled from 2000 Hz to 1000 Hz (article:
+"sampled at 2000 Hz ... then downsampled to 1000 Hz"), so they are labelled `desc-downsampled`; the denoised files are
+`desc-dbtsvd` (demodulated band transform + removal of the first SVD component).
+
+## Source
+- Zenodo: Zsuzsanna Kocsis, Rick L. Jenison, Peter N. Taylor et al. doi:10.5281/zenodo.8110724 (2023-07-05). License CC-BY-4.0.
+- Article: Nat Commun 14 (2023), doi:10.1038/s41467-023-42088-7 (PMC10560235).
+- All 14 release files were downloaded from Zenodo on Voyager (md5 verified) and are in `sourcedata/zenodo-8110724/` unchanged.
+
+## Contents
+- `sub-0<p>/ses-<pre|post>/ieeg/*_task-speechprediction_desc-<downsampled|dbtsvd>_ieeg.*`: 128 channels at 1000 Hz,
+  1.92 h per desc in total. Units are not stated in the release (n/a). Values float64 -> float32.
+- Channel names from Information_sheet.xlsx (grid N, TemporalPole N, SubtemporalStrip N, LateralTemporalStrip N, HGdepth N).
+  Matrix channels not listed in the sheet are named chNNN, type MISC: ch085, ch086, ch087, ch088, ch089, ch090, ch091, ch092, ch093, ch094, ch095, ch096, ch097, ch098, ch099, ch100, ch101, ch102, ch103, ch104, ch105, ch106, ch107, ch108, ch109, ch110, ch111, ch112, ch113, ch114, ch115, ch116, ch117, ch118, ch119, ch120, ch121, ch122, ch123, ch124, ch125, ch126, ch127, ch128.
+- `events.tsv`: event code and sample from the *_events.mat files; meanings from the sheet 'event codes' (biasing sentence
+  onset; target word onset with B/P bias and VOT 0-40 ms; filler trials).
+
+## Localisation
+`electrodes.tsv` per session: MNI coordinates (mm) and Desikan-Killiany / Destrieux labels per contact, as listed in the
+release sheet for each period (the frontal grid positions differ pre/post; article: displacement was checked and corrected).
+The MNI template is not named, so `coordsystem.json` says Other with that description. Temporal pole and subtemporal strip
+contacts have no coordinates in the release. Sheet notes: P1: sheet has 2 location tables, both headed 'Pre-disconnection locations'; the second is taken as post-disconnection (frontal grid coordinates differ; article: grid displacement after disconnection was corrected) | P1 pre: channel numbers in the sheet are not consecutive ([113]...); mapped by row order starting at 1 | P2: sheet has 2 location tables, both headed 'Pre-disconnection locations'; the second is taken as post-disconnection (frontal grid coordinates differ; article: grid displacement after disconnection was corrected) | P2 pre: channel numbers in the sheet are not consecutive ([97, 98, 99, 100, 101]...); mapped by row order starting at 1 | P2 post: channel numbers in the sheet are not consecutive ([97, 98, 99, 100, 101]...); mapped by row order starting at 1
+
+## Privacy
+The release holds participant codes P1/P2, signals, event codes and contact tables; age and sex come from the article.
+String scan of the event files: 4 flagged strings.
