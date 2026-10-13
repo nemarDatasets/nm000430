@@ -1,6 +1,11 @@
 {
   "version": "2.0",
   "pipeline_stage": "validated",
+  "title": "Intracranial recordings before and after left anterior temporal lobe disconnection during a speech prediction task (Kocsis et al., 2023) - derivative",
+  "description": "Acute electrocorticography recorded from two epilepsy surgery patients at the University of Iowa during a speech prediction task, minutes before and after neurosurgical disconnection of the left anterior temporal lobe (a semantic hub). Recordings cover frontal grids, temporal pole, subtemporal and lateral temporal strips, and a Heschl's gyrus depth electrode. This derivative release provides downsampled (1000 Hz) and DBT/SVD-denoised BrainVision-format data with events and electrode localisation tables.",
+  "methods_description": "ECoG was sampled at 2000 Hz and downsampled to 1000 Hz, with anaesthesia stopped at least 20 min before each recording. Denoised versions were produced with a demodulated band transform and removal of the first SVD component. Data were repackaged into BrainVision float32 format with events and electrode tables from the original release.",
+  "license": "CC-BY-4.0",
+  "dataset_type": "derivative",
   "authors": {
     "Zsuzsanna Kocsis": {
       "orcid": "0000-0003-2203-2786",
@@ -100,6 +105,28 @@
       ]
     }
   },
+  "keywords": [
+    {
+      "term": "Electrocorticography",
+      "subject_scheme": "MeSH",
+      "value_uri": "http://id.nlm.nih.gov/mesh/D000069280"
+    },
+    {
+      "term": "iEEG"
+    },
+    {
+      "term": "anterior temporal lobe"
+    },
+    {
+      "term": "semantic hub"
+    },
+    {
+      "term": "speech prediction"
+    },
+    {
+      "term": "epilepsy surgery"
+    }
+  ],
   "related_identifiers": [
     {
       "identifier": "10.5281/zenodo.8110724",
@@ -144,14 +171,11 @@
       "award_number": "R01 DC004290"
     }
   ],
-  "title": "Intracranial recordings before and after left anterior temporal lobe disconnection during a speech prediction task (Kocsis et al., 2023) - derivative",
-  "license": "CC-BY-4.0",
-  "dataset_type": "derivative",
   "resource_type_general": "Dataset",
+  "resource_type_specific": "iEEG Dataset",
   "modalities": [
     "ieeg"
   ],
-  "resource_type_specific": "iEEG Dataset",
   "sizes": [
     "17.69 GB (25 files)"
   ],
@@ -159,44 +183,14 @@
     ".eeg",
     ".json",
     ".mat",
+    ".md",
     ".py",
     ".tsv",
     ".txt",
     ".vhdr",
     ".vmrk",
-    ".xlsx"
+    ".xlsx",
+    ".yml"
   ],
-  "description": "Acute electrocorticography recorded from two epilepsy surgery patients during a speech prediction task, minutes before and after neurosurgical disconnection of the left anterior temporal lobe (a semantic hub). Recordings cover a frontal grid, temporal pole, subtemporal and lateral temporal strips, and a Heschl's gyrus depth electrode. This BIDS derivative repackages the Zenodo release as BrainVision files, with downsampled (1000 Hz) and denoised (demodulated band transform plus first-SVD-component removal) versions, along with events and electrode tables.",
-  "methods_description": "ECoG was sampled at 2000 Hz and downsampled to 1000 Hz. Denoising used the demodulated band transform and removal of the first SVD component. Recordings were made at least 20 min after anaesthesia stopped, before and after left ATL disconnection, using a frontal grid (96 or 64 contacts), temporal pole, subtemporal and lateral temporal strips, and an 8-contact Heschl's gyrus depth electrode. Data were converted to BrainVision float32 with events and electrode tables.",
-  "keywords": [
-    {
-      "term": "Electrocorticography",
-      "subject_scheme": "MeSH",
-      "value_uri": "http://id.nlm.nih.gov/mesh/D000069280"
-    },
-    {
-      "term": "iEEG"
-    },
-    {
-      "term": "anterior temporal lobe"
-    },
-    {
-      "term": "semantic hub"
-    },
-    {
-      "term": "diaschisis"
-    },
-    {
-      "term": "predictive coding"
-    },
-    {
-      "term": "speech"
-    },
-    {
-      "term": "Epilepsy",
-      "subject_scheme": "MeSH",
-      "value_uri": "http://id.nlm.nih.gov/mesh/D004827"
-    }
-  ],
-  "source_hash": "7a6e9027fbbe00a122c4b17bfd8795c338e42402c17b77d62bb751ba1ba554bc"
+  "source_hash": "287203dd32f2bf905f52aa69008a93ce02e435238f2abfb09abe6097a89d0d90"
 }
