@@ -64,5 +64,7 @@
       "Name": "b3w10_convert_semhub.py",
       "Description": "Repackaging into BrainVision float32 (values unchanged, float64 -> float32), events and electrode tables from the release. Code in code/."
     }
-  ]
+  ],
+  "DatasetDOI": "10.82901/nemar.nm000430",
+  "Version": "1.0.0"
 }
