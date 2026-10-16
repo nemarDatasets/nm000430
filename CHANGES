@@ -1,2 +1,5 @@
+1.0.2 2026-10-16
+  - Restore the descriptive dataset Name recorded in the v1.0.0 history. Update generated metadata title and source hash.
+
 1.0.0 2026-10-08
   - Repackaging of Zenodo doi:10.5281/zenodo.8110724 (derivative) for NEMAR.
