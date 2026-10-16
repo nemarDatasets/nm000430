@@ -1,5 +1,5 @@
 {
-  "Name": "Kocsis-2023-immediate-10.1038/s41467-023-42088-7",
+  "Name": "Intracranial recordings before and after left anterior temporal lobe disconnection during a speech prediction task (Kocsis et al., 2023) - derivative",
   "BIDSVersion": "1.10.0",
   "DatasetType": "derivative",
   "License": "CC-BY-4.0",
@@ -66,5 +66,5 @@
     }
   ],
   "DatasetDOI": "10.82901/nemar.nm000430",
-  "Version": "1.0.1"
+  "Version": "1.0.2"
 }
