@@ -1,9 +1,9 @@
 {
   "version": "2.0",
   "pipeline_stage": "validated",
-  "title": "Intracranial recordings before and after left anterior temporal lobe disconnection during a speech prediction task (Kocsis et al., 2023) - derivative",
-  "description": "Acute electrocorticography recorded from two epilepsy surgery patients at the University of Iowa during a speech prediction task, minutes before and after neurosurgical disconnection of the left anterior temporal lobe (a semantic hub). Recordings cover frontal grids, temporal pole, subtemporal and lateral temporal strips, and a Heschl's gyrus depth electrode. This derivative release provides downsampled (1000 Hz) and DBT/SVD-denoised BrainVision-format data with events and electrode localisation tables.",
-  "methods_description": "ECoG was sampled at 2000 Hz and downsampled to 1000 Hz, with anaesthesia stopped at least 20 min before each recording. Denoised versions were produced with a demodulated band transform and removal of the first SVD component. Data were repackaged into BrainVision float32 format with events and electrode tables from the original release.",
+  "title": "Kocsis-2023-immediate-10.1038/s41467-023-42088-7",
+  "description": "Acute electrocorticography recorded from two epilepsy surgery patients during a speech prediction task, minutes before and after neurosurgical disconnection of the left anterior temporal lobe (a semantic hub). This derivative release provides downsampled (1000 Hz) and denoised (demodulated band transform plus first SVD component removal) signals in BIDS format, with event codes and electrode localisation tables. The data support investigation of the immediate neural impact of hub disconnection and incomplete compensation.",
+  "methods_description": "ECoG was recorded at 2000 Hz (TDT, 0.7-800 Hz) from left-hemisphere frontal grids, temporal pole, subtemporal and lateral temporal strips, and a Heschl's gyrus depth electrode, with subgaleal ground and reference electrodes. Recordings were made at least 20 min after anaesthesia ended, before and after left ATL disconnection. Data were downsampled to 1000 Hz and denoised with a demodulated band transform and removal of the first SVD component.",
   "license": "CC-BY-4.0",
   "dataset_type": "derivative",
   "authors": {
@@ -107,12 +107,7 @@
   },
   "keywords": [
     {
-      "term": "Electrocorticography",
-      "subject_scheme": "MeSH",
-      "value_uri": "http://id.nlm.nih.gov/mesh/D000069280"
-    },
-    {
-      "term": "iEEG"
+      "term": "electrocorticography"
     },
     {
       "term": "anterior temporal lobe"
@@ -121,7 +116,13 @@
       "term": "semantic hub"
     },
     {
-      "term": "speech prediction"
+      "term": "diaschisis"
+    },
+    {
+      "term": "predictive coding"
+    },
+    {
+      "term": "speech perception"
     },
     {
       "term": "epilepsy surgery"
@@ -192,5 +193,5 @@
     ".xlsx",
     ".yml"
   ],
-  "source_hash": "287203dd32f2bf905f52aa69008a93ce02e435238f2abfb09abe6097a89d0d90"
+  "source_hash": "4cb21f2c5127e1508361d9d5e645c36545aa551611e9d7aac542ae1be73c88a0"
 }
